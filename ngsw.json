@@ -38,19 +38,7 @@
       "patterns": []
     }
   ],
-  "dataGroups": [
-    {
-      "name": "PWA Client",
-      "patterns": [
-        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
-      ],
-      "strategy": "freshness",
-      "maxSize": 100,
-      "maxAge": 259200000,
-      "timeoutMs": 60000,
-      "version": 1
-    }
-  ],
+  "dataGroups": [],
   "hashTable": {
     "/PWAFinal/0.ed9c1637df53616f91ab.chunk.js": "a9c04f579e1e651a09b2a0b3aa60d684460eed8b",
     "/PWAFinal/assets/android-chrome-192x192.png": "31a83e7d8e0eba8673700200be0689dd1b8ac4a1",
