@@ -22,10 +22,6 @@
         "type":"image/png"
       },
       {
-        "src":"/src/assets/mstile-150x150.png",
-        "type":"image/png"
-      },
-      {
         "src": "/src/assets/android-chrome-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
