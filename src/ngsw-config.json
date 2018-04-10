@@ -23,19 +23,5 @@
         "/assets/**"
       ]
     }
-  }],
-  "dataGroups": [
-    {
-      "name": "PWA Client",
-      "urls": [
-        "https://fonts.googleapis.com/**"
-      ],
-      "cacheConfig":{
-        "strategy":"freshness",
-        "maxAge":"3d",
-        "timeout":"1m",
-        "maxSize":100
-      }
-    }
-  ]
+  }]
 }

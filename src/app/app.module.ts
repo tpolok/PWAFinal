@@ -31,15 +31,15 @@ import { CommonService } from './service/common.service';
     FormsModule,
     HttpModule,
     PdfViewerModule,
-    ServiceWorkerModule.register('/ngsw-worker.js', { enabled: environment.production }),
     CommonModule,
     HttpClientModule,
     CalendarModule.forRoot(),
     BrowserAnimationsModule,
-    AppRoutingModule
+    AppRoutingModule,
+    environment.production ? ServiceWorkerModule.register('ngsw-worker.js') : []
   ],
   providers: [CommonService],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule{}
 
