@@ -14,7 +14,7 @@
         "/PWAFinal/main.b15de70292d1854359a5.bundle.js",
         "/PWAFinal/polyfills.6548e129670a7b76560c.bundle.js",
         "/PWAFinal/scripts.e82c032b38078fc0a970.bundle.js",
-        "/PWAFinal/styles.3902ecea2350adfc8599.bundle.css"
+        "/PWAFinal/styles.256ed4bb435ea72affe2.bundle.css"
       ],
       "patterns": []
     },
@@ -47,17 +47,17 @@
     "/PWAFinal/main.b15de70292d1854359a5.bundle.js": "3f4e1e3a4bb556573a5aff52cedbb8dc2eb9e7a0",
     "/PWAFinal/assets/apple-touch-icon.png": "e166bfbc33e5b0ba73431a4a877c08b7b1ae40ee",
     "/PWAFinal/polyfills.6548e129670a7b76560c.bundle.js": "bed93daa55e3775d67f8231d564f56579a0afba7",
-    "/PWAFinal/assets/browserconfig.xml": "974aea18bda5a95802c06b80126ab1d96d91d708",
+    "/PWAFinal/assets/browserconfig.xml": "4e104bfc1559f3088f25edc3409e9677415226ca",
     "/PWAFinal/scripts.e82c032b38078fc0a970.bundle.js": "4073d5deee1a5014a0f825c9b4dd533b89e714ee",
     "/PWAFinal/assets/favicon-16x16.png": "4a88984803eada8bcf995b0678b0794d22f7f094",
-    "/PWAFinal/styles.3902ecea2350adfc8599.bundle.css": "18e09a215e34d50fc5b4940dfbe47647959a4de6",
+    "/PWAFinal/styles.256ed4bb435ea72affe2.bundle.css": "18e09a215e34d50fc5b4940dfbe47647959a4de6",
     "/PWAFinal/assets/favicon-32x32.png": "a4a711c80bbb89094ec7a92997f27f9e43fb3650",
     "/PWAFinal/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/PWAFinal/assets/favicon.ico": "c304969bdf31a8061b507a112365eed4fe0e3890",
-    "/PWAFinal/index.html": "2fd6b8df5198d762dcf70cb517dd62ecc1042e12",
+    "/PWAFinal/index.html": "d2c6089b2d7bbf8c49a7466c62537829feb331e0",
     "/PWAFinal/assets/mstile-150x150.png": "21641e959e5dc7a65ab384869ae4c3458d41ec77",
     "/PWAFinal/assets/pdf-test.pdf": "175704ddbd779cda7fb7d393d01a4c017d339ef1",
-    "/PWAFinal/assets/safari-pinned-tab.svg": "d6d7e92fd1399f7665a336a4e4fed0075121c549",
-    "/PWAFinal/assets/site.webmanifest": "13e5aa58eb2182d8ace63266856c8cc29c47c083"
+    "/PWAFinal/assets/safari-pinned-tab.svg": "81138c685c730a81ff8204e1e20b5c3a7ddb1959",
+    "/PWAFinal/assets/site.webmanifest": "c26f1f72ad968f601c2afaace75ae72551880254"
   }
 }
