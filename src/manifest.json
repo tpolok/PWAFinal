@@ -2,7 +2,7 @@
     "short_name":"Final",
     "name":"PWAFinal",
     "start_url":"./index.html",
-    "theme_color":"#f48c5b",
+    "theme_color":"#f48c55",
     "background_color":"#ffffff",
     "display":"standalone",
     "orientation":"any",
