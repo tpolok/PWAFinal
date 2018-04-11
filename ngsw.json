@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "index": "/PWAFinal/./index.html",
+  "index": "/PWAFinal/index.html",
   "assetGroups": [
     {
       "name": "app",
